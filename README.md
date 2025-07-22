@@ -1,7 +1,7 @@
 # 🌆 OpenGL City & Nature Scenes (GLUT)
 This project is a collection of animated and interactive scenes built using OpenGL with GLUT. It showcases creative visual storytelling through 2D and 3D environments, combining elements of city life and nature with smooth transitions and animations.
 
-🎨 Scenes Included:
+🎨 Scenes Included: <br>
 🌄 Countryside Morning – Hills, trees, sunrise, and animals in motion
 
 🏙️ City in the Afternoon – Roads, buildings, animated vehicles, pedestrians, and park
